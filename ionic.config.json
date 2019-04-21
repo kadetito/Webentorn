@@ -1,6 +1,8 @@
 {
   "name": "Webentorn",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "3dd6d16e"
 }
